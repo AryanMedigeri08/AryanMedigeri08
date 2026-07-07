@@ -40,7 +40,7 @@ $ echo $MOTTO
 |---|---|---|---|
 | `Private Repo :) ` | 🟢 `IN PROGRESS` | AI****************** — 5-stage *******************,**************ards | `Next.js 15` `FastAPI` `PostgreSQL` `OpenAI` |
 | `sentinel-ai` | 🟡 `DEPLOYED` · 🥇 1st — Datathon 2026 | 6-layer real-time UPI fraud detection engine | `XGBoost` `LSTM` `Isolation Forest` `Neo4j` `Kafka` |
-| `elysium-finpulse` | 🟢 `DEPLOYED` on Cloud Run | Real-time financial risk intelligence assistant, RAG over BigQuery Vector Search | `NVIDIA RAPIDS/cuDF` `Gemini Router` `GCP` |
+| `elysium` | 🟢 `DEPLOYED` on Cloud Run | Real-time financial risk intelligence assistant, RAG over BigQuery Vector Search | `NVIDIA RAPIDS/cuDF` `Gemini Router` `GCP` |
 | `osteovision` | 🟢 `PUBLISHED` | Knee osteoarthritis severity detection — 0.92 mean IoU / 0.94 Dice | `Xception CNN` `Grad-CAM` `OpenCV` `React` |
 | `pcmfms` | 🟢 `OPERATIONAL` | Real-time cognitive-motor fatigue monitor, server-offloaded to survive an ARM64 wall | `MediaPipe` `ONNX Runtime` `ESP32` `WebSockets` |
 | `flowcast-ai` | 🟡 `FINALIST` — WSI AI-THON 2025 | Supply-chain intelligence dashboard for retail demand forecasting | `React` `Recharts` `Python` |
