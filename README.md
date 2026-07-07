@@ -29,7 +29,7 @@ $ cat achievements.log | head -3
 
 $ echo $MOTTO
 > "Ship it, then perfect it."
-'''
+```
 <br/>
 
 ## 🧬 System Status
