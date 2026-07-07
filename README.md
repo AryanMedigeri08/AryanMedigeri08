@@ -29,6 +29,12 @@ $ cat achievements.log | head -3
 
 $ echo $MOTTO
 > "Ship it, then perfect it."
+
+<a href="https://github.com/AryanMedigeri08">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=AI+%2B+Full-Stack+Engineer;Building+Acadflip+%40+Pixaflip+Technologies;National+Datathon+2026+Champion+%F0%9F%8F%86;Competitive+Yogasana+Athlete+%26+Coach" alt="Typing SVG" />
+</a>
+
+<sub><i>You must be my main branch — everything else feels like a fork. 😏</i></sub>
 ```
 
 <br/>
