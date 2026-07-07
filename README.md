@@ -3,7 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=220&section=header&text=Aryan%20Medigeri&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2B%20Full-Stack%20Engineer%20%7C%20Builder%20of%20Systems&descAlignY=55&descSize=18)
 
 <a href="https://github.com/AryanMedigeri08">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=AI+%2B+Full-Stack+Engineer;Building+Acadflip+%40+Pixaflip+Technologies;National+Datathon+2026+Champion+%F0%9F%8F%86;Competitive+Yogasana+Athlete+%26+Coach" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=AI+%2B+Full-Stack+Engineer;;National+Datathon+2026+Champion+%F0%9F%8F%86;Competitive+Yogasana+Athlete+%26+Coach" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=AryanMedigeri08&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
