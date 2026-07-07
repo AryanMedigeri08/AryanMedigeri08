@@ -25,7 +25,7 @@ $ ps --status
 
 $ cat achievements.log | head -3
 > [1st PLACE]  National Datathon 2026 — Sentinel AI (UPI fraud detection)
-> [PUBLISHED]  OsteoVision — peer-reviewed paper, MITAOE 2026
+> [UNDER REVIEW]  OsteoVision — peer-reviewed paper, MITAOE 2026
 
 $ echo $MOTTO
 > "Ship it, then perfect it."
