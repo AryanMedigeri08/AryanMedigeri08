@@ -19,13 +19,12 @@ $ whoami
 > Based in Pune, India
 
 $ ps --status
-> 🛠  Shipping Acadflip (AI course-generation platform) @ Pixaflip Technologies
-> 🎯  Open to SWE / AI internships — Summer 2027
+> 🛠  Shipping into Private Repos
+> 🎯  Open to contribute
 > 🧠  Currently deep in ML inference pipelines + RAG systems
 
 $ cat achievements.log | head -3
 > [1st PLACE]  National Datathon 2026 — Sentinel AI (UPI fraud detection)
-> [FINALIST]   WSI AI-THON 2025 — FlowCast AI (retail demand intelligence)
 > [PUBLISHED]  OsteoVision — peer-reviewed paper, MITAOE 2026
 
 $ echo $MOTTO
@@ -40,12 +39,11 @@ $ echo $MOTTO
 
 | Service | Status | What it does | Stack |
 |---|---|---|---|
-| `acadflip-core` | 🟢 `IN PROGRESS` | AI-powered EdTech platform — 5-stage course generation pipeline, 3 role-based dashboards | `Next.js 15` `FastAPI` `PostgreSQL` `OpenAI` |
+| `Private Repo :) ` | 🟢 `IN PROGRESS` | AI****************** — 5-stage *******************,**************ards | `Next.js 15` `FastAPI` `PostgreSQL` `OpenAI` |
 | `sentinel-ai` | 🟡 `DEPLOYED` · 🥇 1st — Datathon 2026 | 6-layer real-time UPI fraud detection engine | `XGBoost` `LSTM` `Isolation Forest` `Neo4j` `Kafka` |
 | `elysium-finpulse` | 🟢 `DEPLOYED` on Cloud Run | Real-time financial risk intelligence assistant, RAG over BigQuery Vector Search | `NVIDIA RAPIDS/cuDF` `Gemini Router` `GCP` |
 | `osteovision` | 🟢 `PUBLISHED` | Knee osteoarthritis severity detection — 0.92 mean IoU / 0.94 Dice | `Xception CNN` `Grad-CAM` `OpenCV` `React` |
 | `pcmfms` | 🟢 `OPERATIONAL` | Real-time cognitive-motor fatigue monitor, server-offloaded to survive an ARM64 wall | `MediaPipe` `ONNX Runtime` `ESP32` `WebSockets` |
-| `aegis` | 🟢 `OPERATIONAL` | Offline facial recognition + liveness detection for zero-network field zones | `React Native` `TFLite` `On-device ML` |
 | `flowcast-ai` | 🟡 `FINALIST` — WSI AI-THON 2025 | Supply-chain intelligence dashboard for retail demand forecasting | `React` `Recharts` `Python` |
 
 <br/>
