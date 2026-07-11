@@ -11,8 +11,8 @@
 <td width="260" valign="top" align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="ascii-face-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="ascii-face-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="ascii-face-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="ascii-face-light.svg">
   <img alt="ASCII portrait" src="assets/ascii-face-light.png" width="295">
 </picture>
 
