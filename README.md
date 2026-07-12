@@ -1,38 +1,17 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=220&section=header&text=Aryan%20Medigeri&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2B%20Full-Stack%20Engineer%20%7C%20Builder%20of%20Systems&descAlignY=55&descSize=18)
-
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td width="260" valign="top" align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="ascii-face-light.svg">
-  <img alt="ASCII portrait" src="assets/ascii-face-light.png" width="295">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/light.svg">
+  <img alt="Aryan Medigeri" src="assets/light.svg" width="900">
 </picture>
 
-</td>
-<td valign="middle">
-
-<div align="center">
-
-<a href="https://github.com/AryanMedigeri08">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=AI+%2B+Full-Stack+Engineer;;National+Datathon+2026+Champion+%F0%9F%8F%86;Competitive+Yogasana+Athlete+%26+Coach" alt="Typing SVG" />
-</a>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=AryanMedigeri08&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/AryanMedigeri08?style=for-the-badge&color=38BDF8&label=FOLLOWERS&logo=github&logoColor=white" alt="Followers"/>
 
 </div>
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -42,9 +21,9 @@ $ whoami
 > Based in Pune, India
 
 $ ps --status
-> 🛠  Shipping into Private Repos
-> 🎯  Open to contribute
-> 🧠  Currently deep in ML inference pipelines + RAG systems
+> Shipping into Private Repos
+> Open to contribute
+> Currently deep in ML inference pipelines + RAG systems
 
 $ cat achievements.log | head -3
 > [1st PLACE]  National Datathon 2026 — Sentinel AI (UPI fraud detection)
@@ -55,29 +34,48 @@ $ echo $MOTTO
 ```
 <br/>
 
-## 🧬 System Status
+## System Status
 
 <sub>uptime monitor for things I've actually built and shipped</sub>
 
-| Service | Status | What it does | Stack |
-|---|---|---|---|
-| `Private Repo :) ` | 🟢 `IN PROGRESS` | AI****************** — 5-stage *******************,**************ards | `Next.js 15` `FastAPI` `PostgreSQL` `OpenAI` |
-| `sentinel-ai` | 🟡 `DEPLOYED` · 🥇 1st — Datathon 2026 | 6-layer real-time UPI fraud detection engine | `XGBoost` `LSTM` `Isolation Forest` `Neo4j` `Kafka` |
-| `elysium` | 🟢 `DEPLOYED` on Cloud Run | Real-time financial risk intelligence assistant, RAG over BigQuery Vector Search | `NVIDIA RAPIDS/cuDF` `Gemini Router` `GCP` |
-| `osteovision` | 🟢 `PUBLISHED` | Knee osteoarthritis severity detection — 0.92 mean IoU / 0.94 Dice | `Xception CNN` `Grad-CAM` `OpenCV` `React` |
-| `pcmfms` | 🟢 `OPERATIONAL` | Real-time cognitive-motor fatigue monitor, server-offloaded to survive an ARM64 wall | `MediaPipe` `ONNX Runtime` `ESP32` `WebSockets` |
-| `flowcast-ai` | 🟡 `FINALIST` — WSI AI-THON 2025 | Supply-chain intelligence dashboard for retail demand forecasting | `React` `Recharts` `Python` |
+**sentinel-ai** &nbsp;`DEPLOYED`&nbsp; · 1st place, National Datathon 2026
+6-layer real-time UPI fraud detection engine
+`XGBoost` `LSTM` `Isolation Forest` `Neo4j` `Kafka`
+
+---
+
+**elysium** &nbsp;`DEPLOYED — Cloud Run`
+Real-time financial risk intelligence assistant, RAG over BigQuery Vector Search
+`NVIDIA RAPIDS/cuDF` `Gemini Router` `GCP`
+
+---
+
+**osteovision** &nbsp;`PUBLISHED`
+Knee osteoarthritis severity detection — 0.92 mean IoU / 0.94 Dice
+`Xception CNN` `Grad-CAM` `OpenCV` `React`
+
+---
+
+**pcmfms** &nbsp;`OPERATIONAL`
+Real-time cognitive-motor fatigue monitor, server-offloaded to survive an ARM64 wall
+`MediaPipe` `ONNX Runtime` `ESP32` `WebSockets`
+
+---
+
+**flowcast-ai** &nbsp;`FINALIST`&nbsp; · WSI AI-THON 2025
+Supply-chain intelligence dashboard for retail demand forecasting
+`React` `Recharts` `Python`
 
 <br/>
 
-## ⚙️ How I Ship Things
+## How I Ship Things
 
 ```mermaid
 flowchart LR
-    A["💡 Ideate"] --> B["🏗️ Build"]
-    B --> C["🧪 Debug at 2AM"]
-    C --> D["🚀 Deploy"]
-    D --> E["🎤 Present"]
+    A["Ideate"] --> B["Build"]
+    B --> C["Debug at 2AM"]
+    C --> D["Deploy"]
+    D --> E["Present"]
     E -. iterate .-> A
 
     style A fill:#0F172A,stroke:#38BDF8,color:#fff
@@ -89,7 +87,7 @@ flowchart LR
 
 <br/>
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -126,7 +124,7 @@ flowchart LR
 
 <br/>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -141,13 +139,7 @@ flowchart LR
 
 <br/>
 
-## 🤸 Beyond the Code
-
-Off-screen, I compete and coach in **Yogasana** at the national level. Turns out holding a pose under a judge's eye and holding your composure during a 2 AM race-condition hunt run on the same muscle: patience, form, and doing the unglamorous rep count nobody sees.
-
-<br/>
-
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
 
