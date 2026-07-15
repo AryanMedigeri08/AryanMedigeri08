@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="4" viewBox="0 0 800 4" fill="none">
+  <defs>
+    <linearGradient id="dividerGrad" x1="0" y1="2" x2="800" y2="2" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0B1220" stop-opacity="0"/>
+      <stop offset="15%" stop-color="#38BDF8" stop-opacity="0.6"/>
+      <stop offset="35%" stop-color="#38BDF8" stop-opacity="1"/>
+      <stop offset="50%" stop-color="#8B5CF6" stop-opacity="1"/>
+      <stop offset="65%" stop-color="#22D3EE" stop-opacity="1"/>
+      <stop offset="85%" stop-color="#22D3EE" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#0B1220" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="1" width="800" height="2" rx="1" fill="url(#dividerGrad)"/>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140" fill="none">
+  <defs>
+    <linearGradient id="footerGrad" x1="0" y1="0" x2="1200" y2="140" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="30%" stop-color="#111827"/>
+      <stop offset="60%" stop-color="#1E293B"/>
+      <stop offset="100%" stop-color="#0B1220"/>
+    </linearGradient>
+    <linearGradient id="footerLine" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset="25%" stop-color="#38BDF8" stop-opacity="0.5"/>
+      <stop offset="50%" stop-color="#8B5CF6" stop-opacity="0.6"/>
+      <stop offset="75%" stop-color="#22D3EE" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Accent line at top -->
+  <rect x="0" y="0" width="1200" height="3" fill="url(#footerLine)"/>
+
+  <!-- Wave shape -->
+  <path d="M0,40 C200,10 400,60 600,35 C800,10 1000,55 1200,30 L1200,140 L0,140 Z" fill="url(#footerGrad)"/>
+
+  <!-- Quote text -->
+  <text x="600" y="100" text-anchor="middle" font-family="'SF Pro Display', 'Inter', 'Segoe UI', system-ui, -apple-system, sans-serif" font-size="13" font-weight="300" fill="#64748B" letter-spacing="1" font-style="italic">"The best way to predict the future is to build it."</text>
+
+  <!-- Subtle branding -->
+  <text x="600" y="125" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="10" font-weight="400" fill="#334155" letter-spacing="2">ARYAN MEDIGERI — 2025</text>
+</svg>
