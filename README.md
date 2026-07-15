@@ -2,10 +2,21 @@
      ║  ARYAN MEDIGERI — GitHub Profile README                                ║
      ║  Premium Developer Landing Page                                        ║
      ║                                                                        ║
-     ║  ⚙️  Customize before deploying:                                       ║
-     ║  •  Social URLs (LinkedIn, Medium, Portfolio)                          ║
-     ║  •  Email address                                                      ║
-     ║  •  Run the snake GitHub Action after first push                       ║
+     ║  ⚙️  SETUP — Do these steps before deploying:                          ║
+     ║                                                                        ║
+     ║  1. DEPLOY YOUR OWN github-readme-stats:                               ║
+     ║     • Fork https://github.com/anuraghazra/github-readme-stats          ║
+     ║     • Deploy to Vercel (one-click: Import Git Repository)              ║
+     ║     • Add env variable PAT_1 = your GitHub Personal Access Token       ║
+     ║       (needs public_repo scope)                                        ║
+     ║     • Replace YOUR_GH_STATS_VERCEL below with your Vercel domain       ║
+     ║       e.g. github-readme-stats-aryanmedigeri08.vercel.app              ║
+     ║                                                                        ║
+     ║  2. PUSH this repo as AryanMedigeri08/AryanMedigeri08 on GitHub        ║
+     ║     • The snake & profile-summary-cards workflows run automatically    ║
+     ║     • Or trigger them manually from the Actions tab                    ║
+     ║                                                                        ║
+     ║  3. UPDATE social URLs (LinkedIn, Medium, Portfolio, Email)            ║
      ╚══════════════════════════════════════════════════════════════════════════╝ -->
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -77,7 +88,7 @@ class Developer:
     def __init__(self):
         self.name         = "Aryan Medigeri"
         self.role         = "AI Engineer & Full Stack Developer"
-        self.education    = "B.Tech CSE @ PES University, Bangalore"
+        self.education    = "B.Tech CSE (Data Science)"
         self.building     = ["Sentinel AI — Real-time UPI Fraud Detection",
                              "Elysium — Financial Risk Intelligence Platform"]
         self.interests    = ["Machine Learning", "Computer Vision", "Edge AI",
@@ -115,8 +126,8 @@ me = Developer()
 
 | | Detail | | Detail |
 |:---|:---|:---|:---|
-| 🎓 **Education** | B.Tech CSE, PES University | 🔬 **Current Focus** | Production ML Pipelines |
-| 📍 **Location** | Bangalore, India | 🏆 **Hackathons** | National Winner + Finalist |
+| 🎓 **Education** | B.Tech CSE (Data Science) | 🔬 **Current Focus** | Production ML Pipelines |
+| 📍 **Location** | Pune, India | 🏆 **Hackathons** | National Winner + Finalist |
 | 💼 **Experience** | AI/ML & Full Stack Development | 📄 **Research** | Published — Medical AI |
 | 🎯 **Specialization** | Real-time ML Systems | 🚀 **Deployments** | 6+ Production Systems |
 | ⚡ **Edge AI** | IoT & Embedded Inference | 🧠 **Tech Domains** | AI · Vision · Cloud · Edge · Full Stack |
@@ -408,7 +419,7 @@ me = Developer()
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
      §5  CURRENT FOCUS
-     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
 
 <h2 align="center">🎯 Current Focus</h2>
 <p align="center"><em>What I'm working on right now</em></p>
@@ -486,7 +497,7 @@ me = Developer()
   <img src="assets/divider.svg" width="100%" alt="divider" />
 </div>
 
-<br>
+<br>-->
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
      §6  DEVELOPMENT PHILOSOPHY
@@ -569,7 +580,7 @@ me = Developer()
 <td align="center"><strong>Backend</strong></td>
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,express,graphql&theme=dark" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=fastapi,graphq,nodejsl&theme=dark" alt="Backend" />
 
 </td>
 </tr>
@@ -608,7 +619,7 @@ me = Developer()
 <td align="center"><strong>DevOps</strong></td>
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,bash,nginx&theme=dark" alt="DevOps" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions&theme=dark" alt="DevOps" />
 
 </td>
 </tr>
@@ -740,11 +751,13 @@ FlowCast AI — Retail demand forecasting platform selected as a finalist at a c
 
 <br>
 
-<!-- Stats + Languages side by side -->
+<!-- Stats + Languages side by side
+     ⚠️  Replace YOUR_GH_STATS_VERCEL with your self-deployed Vercel domain.
+     See setup instructions at the top of this file. -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AryanMedigeri08&show_icons=true&theme=transparent&bg_color=0B1220&title_color=38BDF8&text_color=94A3B8&icon_color=8B5CF6&border_color=1E293B&count_private=true&include_all_commits=true&rank_icon=github" width="49%" alt="GitHub Stats" />
+  <img src="https://YOUR_GH_STATS_VERCEL.vercel.app/api?username=AryanMedigeri08&show_icons=true&theme=transparent&bg_color=0B1220&title_color=38BDF8&text_color=94A3B8&icon_color=8B5CF6&border_color=1E293B&count_private=true&include_all_commits=true&rank_icon=github" width="49%" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanMedigeri08&layout=compact&theme=transparent&bg_color=0B1220&title_color=38BDF8&text_color=94A3B8&border_color=1E293B&langs_count=8&hide=jupyter%20notebook" width="49%" alt="Top Languages" />
+  <img src="https://YOUR_GH_STATS_VERCEL.vercel.app/api/top-langs/?username=AryanMedigeri08&layout=compact&theme=transparent&bg_color=0B1220&title_color=38BDF8&text_color=94A3B8&border_color=1E293B&langs_count=8&hide=jupyter%20notebook" width="49%" alt="Top Languages" />
 </div>
 
 <br>
@@ -763,9 +776,18 @@ FlowCast AI — Retail demand forecasting platform selected as a finalist at a c
 
 <br>
 
-<!-- Profile Summary Cards -->
+<!-- Profile Summary Cards — Generated by GitHub Action (.github/workflows/profile-summary-cards.yml)
+     These images are auto-committed to the profile-summary-card-output branch. -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AryanMedigeri08&theme=github_dark" width="98%" alt="Profile Details" />
+  <img src="https://raw.githubusercontent.com/AryanMedigeri08/AryanMedigeri08/profile-summary-card-output/profile-summary-card-output/0-profile-details.svg" width="98%" alt="Profile Details" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AryanMedigeri08/AryanMedigeri08/profile-summary-card-output/profile-summary-card-output/1-repos-per-language.svg" width="49%" alt="Repos Per Language" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/AryanMedigeri08/AryanMedigeri08/profile-summary-card-output/profile-summary-card-output/2-most-commit-language.svg" width="49%" alt="Most Commit Language" />
 </div>
 
 <br>
@@ -830,29 +852,7 @@ FlowCast AI — Retail demand forecasting platform selected as a finalist at a c
 
 <br>
 
-<div align="center">
 
-#### 📌 Pinned Repositories
-
-<a href="https://github.com/AryanMedigeri08/Sentinel.AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanMedigeri08&repo=Sentinel.AI&theme=transparent&bg_color=0B1220&title_color=38BDF8&icon_color=8B5CF6&text_color=94A3B8&border_color=1E293B" alt="Sentinel.AI" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/AryanMedigeri08/Elysium">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanMedigeri08&repo=Elysium&theme=transparent&bg_color=0B1220&title_color=38BDF8&icon_color=8B5CF6&text_color=94A3B8&border_color=1E293B" alt="Elysium" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/AryanMedigeri08/OsteoVision">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanMedigeri08&repo=OsteoVision&theme=transparent&bg_color=0B1220&title_color=38BDF8&icon_color=8B5CF6&text_color=94A3B8&border_color=1E293B" alt="OsteoVision" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/AryanMedigeri08/Aabha">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanMedigeri08&repo=Aabha&theme=transparent&bg_color=0B1220&title_color=38BDF8&icon_color=8B5CF6&text_color=94A3B8&border_color=1E293B" alt="Aabha" />
-</a>
-
-</div>
 
 <br>
 
