@@ -1,12 +1,10 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/light.svg">
-  <img alt="Aryan Medigeri" src="assets/light.svg" width="900">
-</picture>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=220&section=header&text=Aryan%20Medigeri&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2B%20Full-Stack%20Engineer%20%7C%20Data%20%26%20ML&descAlignY=55&descSize=18)
 
-<br/><br/>
+<a href="https://github.com/AryanMedigeri08">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=AI+and+Full+Stack+Engineer;Data+Analysis;Machine+Learning" alt="Typing SVG" />
+</a>
 
 <img src="https://komarev.com/ghpvc/?username=AryanMedigeri08&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/AryanMedigeri08?style=for-the-badge&color=38BDF8&label=FOLLOWERS&logo=github&logoColor=white" alt="Followers"/>
@@ -32,37 +30,61 @@ $ cat achievements.log | head -3
 $ echo $MOTTO
 > "Ship it, then perfect it."
 ```
+
 <br/>
 
-## System Status
+## Projects
 
-<sub>uptime monitor for things I've actually built and shipped</sub>
+<sub>clustered by focus area — click any node or name to open the repo</sub>
 
-**sentinel-ai** &nbsp;`DEPLOYED`&nbsp; · 1st place, National Datathon 2026
+```mermaid
+flowchart TB
+    subgraph AI[" AI &amp; Machine Learning "]
+        S1((Sentinel.AI))
+        S2((OsteoVision))
+        S3((Elysium))
+    end
+    subgraph FS[" Full-Stack &amp; Systems "]
+        S4((PCMFMS))
+        S5((FlowCast AI))
+    end
+
+    click S1 "https://github.com/AryanMedigeri08/Sentinel.AI" _blank
+    click S2 "https://github.com/AryanMedigeri08/OsteoVision" _blank
+    click S3 "https://github.com/AryanMedigeri08/Elysium" _blank
+    click S4 "https://github.com/AryanMedigeri08/Predictive-Cognitive-Motor-Fatigue-Monitoring-System-Using-Facial-Landmark-Stability" _blank
+    click S5 "https://github.com/AryanMedigeri08/flowcast-ai-design" _blank
+
+    style AI fill:#0F172A,stroke:#7C3AED,color:#94A3B8
+    style FS fill:#0F172A,stroke:#22D3EE,color:#94A3B8
+    style S1 fill:#111C33,stroke:#38BDF8,color:#fff
+    style S2 fill:#111C33,stroke:#38BDF8,color:#fff
+    style S3 fill:#111C33,stroke:#38BDF8,color:#fff
+    style S4 fill:#111C33,stroke:#38BDF8,color:#fff
+    style S5 fill:#111C33,stroke:#38BDF8,color:#fff
+```
+
+### AI & Machine Learning
+
+**[Sentinel.AI](https://github.com/AryanMedigeri08/Sentinel.AI)** &nbsp;`DEPLOYED`&nbsp; · 1st place, National Datathon 2026
 6-layer real-time UPI fraud detection engine
 `XGBoost` `LSTM` `Isolation Forest` `Neo4j` `Kafka`
 
----
-
-**elysium** &nbsp;`DEPLOYED — Cloud Run`
+**[Elysium](https://github.com/AryanMedigeri08/Elysium)** &nbsp;`DEPLOYED — Cloud Run`
 Real-time financial risk intelligence assistant, RAG over BigQuery Vector Search
 `NVIDIA RAPIDS/cuDF` `Gemini Router` `GCP`
 
----
-
-**osteovision** &nbsp;`PUBLISHED`
+**[OsteoVision](https://github.com/AryanMedigeri08/OsteoVision)** &nbsp;`PUBLISHED`
 Knee osteoarthritis severity detection — 0.92 mean IoU / 0.94 Dice
 `Xception CNN` `Grad-CAM` `OpenCV` `React`
 
----
+### Full-Stack & Systems
 
-**pcmfms** &nbsp;`OPERATIONAL`
+**[PCMFMS](https://github.com/AryanMedigeri08/Predictive-Cognitive-Motor-Fatigue-Monitoring-System-Using-Facial-Landmark-Stability)** &nbsp;`OPERATIONAL`
 Real-time cognitive-motor fatigue monitor, server-offloaded to survive an ARM64 wall
 `MediaPipe` `ONNX Runtime` `ESP32` `WebSockets`
 
----
-
-**flowcast-ai** &nbsp;`FINALIST`&nbsp; · WSI AI-THON 2025
+**[FlowCast AI](https://github.com/AryanMedigeri08/flowcast-ai-design)** &nbsp;`FINALIST`&nbsp; · WSI AI-THON 2025
 Supply-chain intelligence dashboard for retail demand forecasting
 `React` `Recharts` `Python`
 
@@ -132,6 +154,8 @@ flowchart LR
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanMedigeri08&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="35%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanMedigeri08&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AryanMedigeri08&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=AryanMedigeri08&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
 
