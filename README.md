@@ -874,7 +874,7 @@ FlowCast AI — Retail demand forecasting platform selected as a finalist at a c
 <div align="center">
 
   <a href="mailto:aryan22medigeri@gmail.com">
-    <img src="https://img.shields.io/badge/aryanmedigeri08@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/aryan22medigeri@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
   <br><br>
